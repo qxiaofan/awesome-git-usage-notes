@@ -44,7 +44,7 @@ $git config --unset --system user.name
 
 
 
-####　二 往仓库里添加文件
+##### 二 往仓库里添加文件
 
 ![](imgs/1.png)
 
